@@ -76,9 +76,6 @@ const AddJob = () => {
     }
   }, []);
 
-  useEffect(() => {
-    document.title = "Superio - Job Portal | Dashboard";
-  }, []);
 
   return (
     <section className="mr-1 mb-6">
