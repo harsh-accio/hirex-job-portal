@@ -63,10 +63,6 @@ const ManageJobs = () => {
     fetchManageJobsData();
   }, []);
 
-  useEffect(() => {
-    document.title = "Superio - Job Portal | Dashboard";
-  }, []);
-
   return (
     <section>
       {loading ? (
