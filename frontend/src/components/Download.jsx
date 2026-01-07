@@ -11,7 +11,7 @@ const Download = () => {
             Download & Enjoy
           </h3>
           <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-gray-900 leading-tight">
-            Get the Superio <span className="text-blue-600">Job Search</span>{" "}
+            Get the HireX <span className="text-blue-600">Job Search</span>{" "}
             App
           </h1>
           <p className="text-lg text-gray-600 max-w-lg mx-auto lg:mx-0">

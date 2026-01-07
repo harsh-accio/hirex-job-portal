@@ -95,11 +95,11 @@ export const assets = {
 export const categoryIcon = [
   {
     icon: programming,
-    name: "Programming",
+    name: "AI",
   },
   {
     icon: data_scince,
-    name: "Data Science",
+    name: "Data Analyst",
   },
   {
     icon: designing,
@@ -107,7 +107,7 @@ export const categoryIcon = [
   },
   {
     icon: network,
-    name: "Networking",
+    name: "Operation",
   },
   {
     icon: management,
@@ -115,7 +115,7 @@ export const categoryIcon = [
   },
   {
     icon: marketing,
-    name: "Marketing",
+    name: "Testing",
   },
   {
     icon: cyber_security,
@@ -194,7 +194,7 @@ export const testimonials = [
 ];
 
 export const JobCategories = [
-  "Programming",
+  "AI",
   "Data Science",
   "Designing",
   "Networking",
@@ -204,14 +204,13 @@ export const JobCategories = [
 ];
 
 export const JobLocations = [
-  "Dhaka",
-  "Chattogram",
-  "Khulna",
-  "Rajshahi",
-  "Barishal",
-  "Sylhet",
-  "Rangpur",
-  "Mymensingh",
+  "Bangalore",
+  "Mumbai",
+  "Pune",
+  "Hyderabad",
+  "Gurgaon",
+  "Chennai",
+  "Mysore",
   "Remote",
 ];
 
