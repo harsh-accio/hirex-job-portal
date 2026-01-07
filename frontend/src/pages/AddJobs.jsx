@@ -146,13 +146,13 @@ const AddJob = () => {
               onChange={(e) => setLocation(e.target.value)}
               className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
             >
-              <option value="Dhaka">Dhaka</option>
-              <option value="Rangpur">Rangpur</option>
-              <option value="Barishal">Barishal</option>
-              <option value="Khulna">Khulna</option>
-              <option value="Mymensingh">Mymensingh</option>
-              <option value="Rajshahi">Rajshahi</option>
-              <option value="Sylhet">Sylhet</option>
+              <option value="Banglore">Banglore</option>
+              <option value="Mumbai">Mumbai</option>
+              <option value="Hyderabad">Hyderabad</option>
+              <option value="Pune">Pune</option>
+              <option value="Mysore">Mysore</option>
+              <option value="Gurgaon">Gurgaon</option>
+              <option value="Noida/Delhi NCR">Noida/Delhi NCR</option>
               <option value="Remote">Remote</option>
             </select>
           </div>
